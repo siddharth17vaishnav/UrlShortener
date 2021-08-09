@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UrlShortener/static/css/main.01eff744.chunk.css",
+    "main.js": "/UrlShortener/static/js/main.debb1ba0.chunk.js",
+    "main.js.map": "/UrlShortener/static/js/main.debb1ba0.chunk.js.map",
+    "runtime-main.js": "/UrlShortener/static/js/runtime-main.d8f16381.js",
+    "runtime-main.js.map": "/UrlShortener/static/js/runtime-main.d8f16381.js.map",
+    "static/js/2.c797634f.chunk.js": "/UrlShortener/static/js/2.c797634f.chunk.js",
+    "static/js/2.c797634f.chunk.js.map": "/UrlShortener/static/js/2.c797634f.chunk.js.map",
+    "static/js/3.1c0fb144.chunk.js": "/UrlShortener/static/js/3.1c0fb144.chunk.js",
+    "static/js/3.1c0fb144.chunk.js.map": "/UrlShortener/static/js/3.1c0fb144.chunk.js.map",
+    "index.html": "/UrlShortener/index.html",
+    "static/css/main.01eff744.chunk.css.map": "/UrlShortener/static/css/main.01eff744.chunk.css.map",
+    "static/js/2.c797634f.chunk.js.LICENSE.txt": "/UrlShortener/static/js/2.c797634f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8f16381.js",
+    "static/js/2.c797634f.chunk.js",
+    "static/css/main.01eff744.chunk.css",
+    "static/js/main.debb1ba0.chunk.js"
+  ]
+}
