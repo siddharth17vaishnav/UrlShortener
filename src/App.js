@@ -1,4 +1,4 @@
-import { useState,useEffect} from 'react';
+import { useState} from 'react';
 import axios from 'axios';
 import './App.css';
 import { Button, Container ,TextField} from '@material-ui/core';
@@ -11,7 +11,7 @@ const [query,setQuery]=useState('');
 
 
 const getData=async() =>{
-  const api= await axios.get(`/api/api.php?key=d4b25bf4fc52d7571f816d2af67d2576ff265&short=${query}`).then(res=>{
+  const api= await axios.get(`https://cutt.ly/api/api.php?key=d4b25bf4fc52d7571f816d2af67d2576ff265&short=${query}`).then(res=>{
     const output= res.data.url.shortLink;
     setUrl(output);
     
