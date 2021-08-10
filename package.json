@@ -2,7 +2,7 @@
   "name": "urlshortener",
   "version": "0.1.0",
   "private": true,
-  
+  "proxy": "https://cutt.ly",
   "homepage":"https://siddharth17vaishnav.github.io/UrlShortener",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
